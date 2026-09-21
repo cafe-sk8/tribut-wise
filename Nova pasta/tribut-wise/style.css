@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+     font-family: "Roboto", sans-serif;
+    }
+
+    .bloco{
+        display: flex;
+
+    }
+
+
+    .num-1{
+        border: 2px solid #1bc904;
+        width: 250px;
+        height: 200px;
+        margin: 5px;
+        padding: 5px;
+        border-radius: 10px ;
+    }
+    .num-2{
+        border: 2px solid #1bc904;
+        width: 250px;
+        height: 200px;
+        margin: 5px;
+        padding: 5px;
+        border-radius: 10px ;
+    }
+    .num-3{
+        border: 2px solid #1bc904;
+        width: 250px;
+        height: 200px;
+        margin: 5px;
+        padding: 5px;
+        border-radius: 10px ;
+    }
+    .num-4{
+        border: 2px solid #1bc904;
+        width: 250px;
+        height: 200px;
+        margin: 5px;
+        padding: 5px;
+        border-radius: 10px ;
+    }
+    .num-5{
+        border: 2px solid #1bc904;
+        width: 250px;
+        height: 200px;
+        margin: 5px;
+        padding: 5px;
+        border-radius: 10px ;
+    }
+    .num-6{
+        border: 2px solid #1bc904;
+        width: 250px;
+        height: 200px;
+        margin: 5px;
+        padding: 5px;
+        border-radius: 10px ;
+    }
