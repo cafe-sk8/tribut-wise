@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+     font-family: "Roboto", sans-serif;
+}
+.meio {display:flex;
+}
+.num1 {
+width: 400px;
+height: 150px;
+border: 2px solid #a1f06c;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+}
+.num2 {
+width: 400px;
+height: 150px;
+border: 2px solid #000;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+}
+.num3 {
+width: 400px;
+height: 150px;
+border: 2px solid #000;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+}
+.meio2 {display:flex;}
+.num4{ 
+width: 200px;
+height: 200px;
+border: 2px solid #000;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+}
+.num5{
+    width: 200px;
+height: 200px;
+border: 2px solid #000;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+
+}
+.num6{
+    width: 200px;
+height: 200px;
+border: 2px solid #000;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+
+}
+.num7{
+    width: 200px;
+height: 200px;
+border: 2px solid #000;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+
+}
+.num8{
+    width: 200px;
+height: 200px;
+border: 2px solid #000;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+
+}
+.num9{
+    width: 200px;
+height: 200px;
+border: 2px solid #000;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+
+}
+.num10{
+    width: 200px;
+height: 200px;
+border: 2px solid #000;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+
+}
+.num11{
+    width: 200px;
+height: 200px;
+border: 2px solid #000;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+
+}
+.num12{
+ width: 200px;
+height: 200px;
+border: 2px solid #000;
+margin: 5px;
+padding: 5px;
+border-radius: 10px;
+
+}
+
+
+.meio3{display:flex;}
+
+.butão{
+    background-color: #4CAF50;
+    border-radius: 10px;
+    border: none;
+    height: 40px;
+    width: 150px;
+    font-size:medium;
+}
+
